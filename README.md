@@ -14,7 +14,7 @@ Automate the process of sending emails with some customized features based on bu
 git clone https://github.com/nandinichhajed/Sending-Emails-with-Python-Django.git
 ```
 
-**Get project forlder**
+**Get project folder**
 
 ```bash
 cd Sending-Emails-with-Python-Django
